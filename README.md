@@ -3,6 +3,7 @@ This project aims to improve python skills in termins of programming, python fra
 
 ## Topics around Python
 - Flask
+- Django Framework
 - APIs
 
 ## Udemy Courses
